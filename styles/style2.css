@@ -150,11 +150,13 @@ body {
     }
     .header__nav {
         justify-content: center;
+        gap:20px;
     }
     .presentacion {
         flex-direction: column;
         padding: 5%;
         justify-content: center;
+
     }
     .presentacion__contenido {
         width: auto;
