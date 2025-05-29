@@ -152,7 +152,7 @@ body {
         justify-content: center;
     }
     .presentacion {
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5%;
     }
     .presentacion__contenido {
